@@ -1,3 +1,6 @@
+# Proper .gitignore
+.gitignore
+
 # Prerequisites
 *.d
 
