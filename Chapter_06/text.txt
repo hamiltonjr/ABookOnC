@@ -1,0 +1,3 @@
+Studies that estimate and rank the most common words in English examine texts written in English. Perhaps the most comprehensive such analysis is one that was conducted against the Oxford English Corpus (OEC), a very large collection of texts from around the world that are written in the English language. A text corpus is a large collection of written works that are organised in a way that makes such analysis
+END
+
